@@ -3,4 +3,4 @@ The idea of this repository is to provide crowd-sourced information about the be
 
 This repository is 'public', so can be viewed by anyone - and anyone can feel free to make contributions by making a 'pull-request' (don't worry if you don't know what that means yet!).
 
-For more information, please refer to [the Wiki for this repository](https://bitbucket.org/dgallichan/getting-started-with-micro-bit/wiki/Home).
+For more information, please refer to [the Wiki for this repository](https://github.com/dgallichan/microbit-basics/wiki).
